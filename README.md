@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/radon220?theme=dark&font=Cookie&ext=heatmap&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/radon220?font=Cookie&ext=heatmap&site=cn&sheets=https://gist.github.com/Radon10043/76d501b3ffb413ae3541792f75876d0a/raw/a452aaa7a500a1fbb537ec591d2da116bc3290a4/theme.css)
 
 ![psn-card](https://psncard.dogpaw.top/card/Radon220_)
 

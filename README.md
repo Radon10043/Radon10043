@@ -25,11 +25,17 @@ Here are some ideas to get you started:
 
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Radon10043&theme=github-compact&area=true)
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Radon10043&theme=onedark)](https://git.io/streak-stats)
+
+</div>
+
 ### 🍕 Interesting Stats
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/radon220?font=Cookie&ext=heatmap&site=cn&sheets=https://gist.github.com/Radon10043/76d501b3ffb413ae3541792f75876d0a/raw/a452aaa7a500a1fbb537ec591d2da116bc3290a4/theme.css)l
+![LeetCode Stats](https://leetcard.jacoblin.cool/radon220?font=Cookie&ext=heatmap&site=cn&sheets=https://gist.github.com/Radon10043/76d501b3ffb413ae3541792f75876d0a/raw/a452aaa7a500a1fbb537ec591d2da116bc3290a4/theme.css)
 
 ![psn-card](https://psncard.dogpaw.top/card/Radon220_)
 
